@@ -10,6 +10,6 @@ HighColl.py 다운로드: https://drive.google.com/file/d/1Az05rd0SJxpWrgMP-harP
 - **pip install moviepy 입력**   
 
 크롬 버전 확인: chrome://version/ (주소창에 입력)   
-크롬 드라이버 다운로드: http://chromedriver.storage.googleapis.com/index.html
+크롬 드라이버 다운로드 **크롬이랑 같은 버전이여야함**: http://chromedriver.storage.googleapis.com/index.html
 <hr />   
 사용법은 위 사용법.pptx파일 
