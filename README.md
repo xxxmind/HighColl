@@ -1,4 +1,4 @@
-HighColl.py 위 다운로드   
+HighColl.py 다운로드: https://drive.google.com/file/d/1Az05rd0SJxpWrgMP-harP9euRnHKy88Z/view?usp=sharing   
 파이썬 다운로드: https://www.python.org/downloads/release/python-382/   
 ![다운로드](./img.png)   
 **체크박스 2개다 체크**
