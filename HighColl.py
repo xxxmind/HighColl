@@ -7,7 +7,7 @@ import time
 import re
 #--------------------------
 streamer=''             #twitch id
-cf=1                    #combineflag
+cf=0                   #combineflag
 pf=1                    #printflag
 ascsort=1               #ascending sort 오름차순
 top=10                  #영상수
