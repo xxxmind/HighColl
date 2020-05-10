@@ -11,5 +11,5 @@ HighColl.py 위 다운로드
 
 <hr />
 
-크롬 버전 확인:chrome://version/
+크롬 버전 확인:chrome://version/   
 크롬 드라이버 다운로드: http://chromedriver.storage.googleapis.com/index.html
